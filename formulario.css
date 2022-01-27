@@ -20,7 +20,7 @@ fieldset {
 }
 
 body {
-  background-color: rgb(146, 143, 140);
+  background-color: rgb(167, 143, 235);
   font-family: sans-serif;
   font-size: 1em;
   color: black;
@@ -61,21 +61,21 @@ fieldset.grupo .campo {
 }
 
 .campo select option {
-  padding-right: 1em;
+  padding-right: 5em;
 }
 
 .campo input:focus,
 .campo select:focus,
 .campo textarea:focus {
-  background-color: pink;
+  background-color: rgb(237, 136, 247);
 }
 
 .botao {
-  font-size: 1.2em;
-  background: powderblue;
+  font-size: 3em;
+  background: rgb(241, 241, 64);
   border: 0;
   margin-bottom: 1em;
-  color: white;
+  color: rgb(240, 240, 35);
   padding: 0.2em 0.6em;
   box-shadow: 2px 2px 2px;
   text-shadow: 1px 1px 1px;
